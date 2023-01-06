@@ -13,11 +13,11 @@ In the URL field, simply wrap your URL by calling our `hubspot_api_url()` functi
 
 Previously, your URL looked like this:
 
-    https://api.hubapi.com/cms/v3/blogs/posts?api_key=XXXXX-YYYY-ZZZZ&limit=1000&state=PUBLISHED&tagId__in=123,456
+    https://api.hubapi.com/cms/v3/blogs/posts?hapikey=XXXXX-YYYY-ZZZZ&limit=1000&state=PUBLISHED&tagId__in=123,456
     
 With this plugin, simply :
 
-1- Remove the old `api_key` parameter from the URL so it becomes something like this:
+1- Remove the old `hapikey` parameter from the URL so it becomes something like this:
 
     https://api.hubapi.com/cms/v3/blogs/posts?limit=1000&state=PUBLISHED&tagId__in=123,456
     
