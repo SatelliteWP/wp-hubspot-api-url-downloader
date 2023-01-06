@@ -33,7 +33,7 @@ With this plugin, simply :
 
 *Note:* In our example, the API key is `pat-na1-xxxxxxx-xxxx-xxxx-xxxx-xxxxx`.
 
-## Credit
+## Credits
 
 This code was created and is maintained by [SatelliteWP](https://www.satellitewp.com/en), a maintenance service specialized in cybersecurity and performance for WordPress websites.
 
