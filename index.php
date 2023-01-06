@@ -1,9 +1,11 @@
 <?php
 /**
  * Plugin Name: Hubspot API URL Downloader
+ * Plugin URI:  https://github.com/SatelliteWP/wp-hubspot-api-url-downloader
  * Description: Call a Hubspot API URL
- * Version:     1.0
+ * Version:     1.0.1
  * Author:      SatelliteWP
+ * Author URI:  https://www.satellitewp.com/en/
  */
 
 // [hubspot_api_url("https://api.hubapi.com/cms/v3/blogs/posts?limit=1000&state=PUBLISHED&tagId__in=123,456","pat-na1-xxxxxxx-xxxx-xxxx-xxxx-xxxxx")]
